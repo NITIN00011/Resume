@@ -39,5 +39,5 @@ I am a second-semester BCA student passionate about programming, web development
 ## 📫 Let's Connect
 
 - GitHub: [github.com/nitin00011 ](https://github.com/nitin00011)  
-- LinkedIn: [www.linkedin.com/in/ajit-kumar-ajitjaat94](www.linkedin.com/in/ajit-kumar-ajitjaat94)  
+- LinkedIn: [https://www.linkedin.com/in/nitin-garhwal-b171b1329/][https://www.linkedin.com/in/nitin-garhwal-b171b1329  
 
