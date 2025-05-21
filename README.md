@@ -1,15 +1,15 @@
 # Resume
-# 👨‍💻 Ajit Bijarniya
+# 👨‍💻 Nitin Garhwal
 
-**📍 Location:** Reenus, Sikar, Rajasthan  
+**📍 Location:** Sikar, Rajasthan  
 **🎓 Education:** Bachelor of Computer Applications (BCA), Pratap Institute of Technology and Science  
-**📧 Email:** ajitkumar57525@gmail.com  
+**📧 Email:** nitingarhwal184@gmail.com  
 
 ---
 
 ## 🧾 About Me
 
-I am a second-year BCA student passionate about programming, web development, and learning the latest technologies in AI and Data Science. I am currently building a content-based website focused on tech news, AI, and programming updates, with secure admin-only uploads.
+I am a second-semester BCA student passionate about programming, web development, and learning the latest technologies in AI and Data Science. I am currently building a content-based website focused on tech news, AI, and programming updates, with secure admin-only uploads.
 
 ---
 
@@ -24,10 +24,9 @@ I am a second-year BCA student passionate about programming, web development, an
 
 ## 🗂️ Projects
 
-### 🔐 Tech News & AI Website
-- A website that displays latest news, programming articles, and AI updates.
-- Secure admin login for content upload.
-- Built using HTML, CSS, JavaScript, and MySQL.
+### 🔐Clone of BBC website
+- A website that displays Fully clone of BBC website.
+- Built using HTML, CSS, and JavaScript.
 
 ---
 
@@ -39,6 +38,6 @@ I am a second-year BCA student passionate about programming, web development, an
 
 ## 📫 Let's Connect
 
-- GitHub: [github.com/ajitjaat94 ](https://github.com/ajitjaat94)  
+- GitHub: [github.com/nitin00011 ](https://github.com/nitin00011)  
 - LinkedIn: [www.linkedin.com/in/ajit-kumar-ajitjaat94](www.linkedin.com/in/ajit-kumar-ajitjaat94)  
 
